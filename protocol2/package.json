@@ -1,0 +1,6 @@
+{
+  "main": "main.js",
+  "dependencies": {
+    "ws": "8.10.0"
+  }
+}
